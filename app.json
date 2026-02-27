@@ -49,12 +49,12 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "de33db0d-8d37-4dd5-b4ba-eb860d640caa"
+        "projectId": "79ff53a8-200c-4d3d-98e8-5b856f29331f"
       }
     },
     "owner": "hyneksystems",
     "updates": {
-      "url": "https://u.expo.dev/de33db0d-8d37-4dd5-b4ba-eb860d640caa"
+      "url": "https://u.expo.dev/79ff53a8-200c-4d3d-98e8-5b856f29331f"
     },
     "runtimeVersion": {
       "policy": "appVersion"
